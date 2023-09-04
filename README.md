@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=300&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=300&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 | <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tayllana&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayllana&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
