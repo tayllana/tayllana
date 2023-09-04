@@ -18,4 +18,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 	
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=300&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=footer&animation=fadeIn)
