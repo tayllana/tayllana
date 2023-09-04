@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 | <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tayllana&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayllana&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
