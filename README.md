@@ -29,3 +29,4 @@
 </div>
 	
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=footer&animation=fadeIn)
+
