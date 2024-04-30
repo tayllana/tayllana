@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=header&animation=fadeIn)
 
-| <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tayllana&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tayllana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayllana&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/sahmanuela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayllana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayllana&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+	  
 <br><br><br>
 ### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" /> Skills<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"></h2>
 <div>
