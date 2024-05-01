@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=header&animation=fadeIn) 
 
 <div align="center">
   <a href="https://github.com/tayllana">
