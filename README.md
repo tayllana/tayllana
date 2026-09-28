@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4f5d95&height=100&section=header&animation=fadeIn) 
-
 <div align="center"> 
   <a href="https://github.com/tayllana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayllana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
